@@ -1,1 +1,0 @@
-# CentroCienciasExactas.github.io
