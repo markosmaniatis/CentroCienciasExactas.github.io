@@ -1,0 +1,13 @@
+O:11:"BibDataBase":3:{s:5:"bibdb";a:1:{s:16:"Olivares:2020eko";O:8:"BibEntry":11:{s:6:"fields";a:14:{s:13:"x-bibtex-type";s:7:"article";s:3:"key";s:16:"Olivares:2020eko";s:6:"author";s:86:"Olivares, Juan Angel Casimiro and Albino, Luis and Mizher, Ana Julia and Raya, Alfredo";s:5:"title";s:89:"Influence of a Chern-Simons term in the dynamical fermion masses in reduced or pseudo QED";s:6:"eprint";s:10:"2009.08484";s:13:"archiveprefix";s:5:"arXiv";s:12:"primaryclass";s:6:"hep-ph";s:3:"doi";s:27:"10.1103/PhysRevD.102.096023";s:7:"journal";s:12:"Phys. Rev. D";s:6:"volume";s:3:"102";s:6:"number";s:1:"9";s:5:"pages";s:6:"096023";s:4:"year";s:4:"2020";s:7:"_author";s:80:"Olivares, Juan Angel Casimiro, Albino, Luis, Mizher, Ana Julia and Raya, Alfredo";}s:10:"raw_fields";a:13:{s:3:"key";s:16:"Olivares:2020eko";s:6:"author";s:86:"Olivares, Juan Angel Casimiro and Albino, Luis and Mizher, Ana Julia and Raya, Alfredo";s:5:"title";s:91:"{Influence of a Chern-Simons term in the dynamical fermion masses in reduced or pseudo QED}";s:6:"eprint";s:10:"2009.08484";s:13:"archiveprefix";s:5:"arXiv";s:12:"primaryclass";s:6:"hep-ph";s:3:"doi";s:27:"10.1103/PhysRevD.102.096023";s:7:"journal";s:12:"Phys. Rev. D";s:6:"volume";s:3:"102";s:6:"number";s:1:"9";s:5:"pages";s:6:"096023";s:4:"year";s:4:"2020";s:7:"_author";s:80:"Olivares, Juan Angel Casimiro, Albino, Luis, Mizher, Ana Julia and Raya, Alfredo";}s:9:"constants";a:0:{}s:9:"homepages";a:0:{}s:8:"crossref";N;s:4:"text";s:484:"@article{Olivares:2020eko,
+    author = "Olivares, Juan Angel Casimiro and Albino, Luis and Mizher, Ana Julia and Raya, Alfredo",
+    title = "{Influence of a Chern-Simons term in the dynamical fermion masses in reduced or pseudo QED}",
+    eprint = "2009.08484",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1103/PhysRevD.102.096023",
+    journal = "Phys. Rev. D",
+    volume = "102",
+    number = "9",
+    pages = "096023",
+    year = "2020"
+}";s:9:"timestamp";i:1608824099;s:8:"filename";s:90:"/home/oviwebcl/public_html/factory/ubb/wp-content/plugins/wp-publications/A.J.Mizher.2.bib";s:5:"abbrv";N;s:5:"index";s:0:"";s:5:"order";i:0;}}s:8:"stringdb";a:0:{}s:10:"from_files";a:2:{i:0;s:90:"/home/oviwebcl/public_html/factory/ubb/wp-content/plugins/wp-publications/A.J.Mizher.2.bib";i:1;s:90:"/home/oviwebcl/public_html/factory/ubb/wp-content/plugins/wp-publications/A.J.Mizher.2.bib";}}

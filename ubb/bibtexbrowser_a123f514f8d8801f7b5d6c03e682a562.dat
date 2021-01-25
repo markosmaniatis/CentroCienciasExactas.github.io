@@ -1,0 +1,10 @@
+O:11:"BibDataBase":3:{s:5:"bibdb";a:1:{s:12:"Caillol:2019";O:8:"BibEntry":11:{s:6:"fields";a:11:{s:13:"x-bibtex-type";s:7:"article";s:3:"key";s:12:"Caillol:2019";s:6:"author";s:17:"Caillol, Philippe";s:5:"title";s:105:"A singular vorticity wave packet within a rapidly rotating vortex: spiralling versus oscillating motions";s:3:"doi";s:20:"10.1017/jfm.2019.374";s:7:"journal";s:26:"Journal of Fluid Mechanics";s:9:"publisher";s:26:"Cambridge University Press";s:6:"volume";s:3:"873";s:5:"pages";s:9:"688–741";s:4:"year";s:4:"2019";s:7:"_author";s:17:"Caillol, Philippe";}s:10:"raw_fields";a:10:{s:3:"key";s:12:"Caillol:2019";s:6:"author";s:17:"Caillol, Philippe";s:5:"title";s:107:"{A singular vorticity wave packet within a rapidly rotating vortex: spiralling versus oscillating motions}";s:3:"doi";s:20:"10.1017/jfm.2019.374";s:7:"journal";s:26:"Journal of Fluid Mechanics";s:9:"publisher";s:26:"Cambridge University Press";s:6:"volume";s:3:"873";s:5:"pages";s:9:"688–741";s:4:"year";s:4:"2019";s:7:"_author";s:17:"Caillol, Philippe";}s:9:"constants";a:0:{}s:9:"homepages";a:0:{}s:8:"crossref";N;s:4:"text";s:353:"@article{Caillol:2019,
+	author = "Caillol, Philippe",
+	title = "{A singular vorticity wave packet within a rapidly rotating vortex: spiralling versus oscillating motions}",
+	DOI = "10.1017/jfm.2019.374",
+	journal = "Journal of Fluid Mechanics",
+	publisher = "Cambridge University Press",
+	volume = "873",
+	pages = "688–741",
+	year = "2019"
+}";s:9:"timestamp";i:1608661084;s:8:"filename";s:95:"/home/oviwebcl/public_html/factory/ubb/wp-content/plugins/wp-publications/PHILIPPELOUISLEON.bib";s:5:"abbrv";N;s:5:"index";s:0:"";s:5:"order";i:0;}}s:8:"stringdb";a:0:{}s:10:"from_files";a:2:{i:0;s:95:"/home/oviwebcl/public_html/factory/ubb/wp-content/plugins/wp-publications/PHILIPPELOUISLEON.bib";i:1;s:95:"/home/oviwebcl/public_html/factory/ubb/wp-content/plugins/wp-publications/PHILIPPELOUISLEON.bib";}}
