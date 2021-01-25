@@ -1,0 +1,353 @@
+# Translation of Plugins - Translate WordPress with ConveyThis Language Translator - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Translate WordPress with ConveyThis Language Translator - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-25 07:30:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Translate WordPress with ConveyThis Language Translator - Stable (latest release)\n"
+
+#: settings.php:279
+msgid "Allow to change text direction from left to right and vice versa."
+msgstr "Permitir cambiar la dirección del texto de izquierda a derecha y viceversa."
+
+#: settings.php:156
+msgid "General"
+msgstr "Generales"
+
+#: settings.php:504
+msgid "Custom (placed inside of chosen element)"
+msgstr "Personalizado (colocado dentro del elemento elegido)"
+
+#: settings.php:500
+msgid "Fixed (fixed in certain position of screen)"
+msgstr "Fijo (fijado en cierta posición de la pantalla)"
+
+#: settings.php:494
+msgid "Position type"
+msgstr "Tipo de posición"
+
+#: settings.php:777
+msgid "If you need any help, you can contact us via our live chat at %swww.ConveyThis.com%s or email us at support@conveythis.com. You can also check our %sFAQ%s"
+msgstr "Si necesitas ayuda, puedes contactar con nosotros a través de nuestro chat en vivo en %swww.ConveyThis.com%s o enviarnos un correo electrónico a support@conveythis.com. También puedes ver nuestras %sFAQ%s"
+
+#: settings.php:773
+msgid "Love ConveyThis? Give us 5 stars on WordPress.org"
+msgstr "¿Te gusta ConveyThis? Danos 5 estrellas en WordPress.org"
+
+#: settings.php:748
+msgid "Add URL that you want to exclude from translations."
+msgstr "Añade la URL que deseas excluir de las traducciones."
+
+#: settings.php:742
+msgid "Block pages"
+msgstr "Bloquear páginas"
+
+#: settings.php:713
+msgid "Select Flag"
+msgstr "Seleccionar bandera"
+
+#: settings.php:692
+msgid "Select language"
+msgstr "Seleccionar idioma"
+
+#: settings.php:665
+msgid "Down"
+msgstr "Bajar"
+
+#: settings.php:661
+msgid "Up"
+msgstr "Subir"
+
+#: settings.php:656
+msgid "Select dropdown menu direction"
+msgstr "Selecciona la dirección del menú desplegable"
+
+#: settings.php:649
+msgid "* If id of element will not be found on the page, default position will be used"
+msgstr "* Si no se encuentra el ID del elemento en la página, se usará la posición por defecto"
+
+#: settings.php:643
+msgid "Enter id of element, where button will be placed"
+msgstr "Introduce el ID del elemento donde se colocará el botón"
+
+#: settings.php:621
+msgid "Horizontal spacing from the top or bottom of the browser"
+msgstr "Espaciado horizontal desde la parte superior o inferior del navegador"
+
+#: settings.php:589
+msgid "Right"
+msgstr "Derecha"
+
+#: settings.php:575
+msgid "Left"
+msgstr "Izquierda"
+
+#: settings.php:558
+msgid "Horizontal location of the language selection button on the site"
+msgstr "Ubicación horizontal del botón de selección de idioma en el sitio"
+
+#: settings.php:545
+msgid "Bottom"
+msgstr "Abajo"
+
+#: settings.php:531
+msgid "Top"
+msgstr "Arriba"
+
+#: settings.php:418
+msgid "Without flag"
+msgstr "Sin bandera"
+
+#: settings.php:346
+msgid "and drag and drop the ConveyThis Translate Custom link where you want."
+msgstr "y arrastra y suelta el enlace «traducción personalizada de ConveyThis» donde desees."
+
+#: settings.php:345
+msgid "Appearance &gt; Menus"
+msgstr "Apariencia &gt; Menús"
+
+#: settings.php:344
+msgid "You can place the button in a menu area. Go to"
+msgstr "Puedes colocar el botón en un área del menú. Ir a"
+
+#: settings.php:340
+msgid "Languages in menu"
+msgstr "Idiomas en el menú"
+
+#: settings.php:330
+msgid "Show"
+msgstr "Mostrar"
+
+#: settings.php:325
+msgid "Languages in selectbox"
+msgstr "Idiomas en la caja de selección"
+
+#: settings.php:319
+msgid "Customize Languages"
+msgstr "Personalizar idiomas"
+
+#: settings.php:255
+msgid "Translate PDF (adopt PDF files for specific language)"
+msgstr "Traducir PDF (adaptar archivos PDF para un idioma específico)"
+
+#: settings.php:231
+msgid "Translate Media (adopt images for specific language)"
+msgstr "Traducir medio (usar imágenes para idiomas específicos)"
+
+#: settings.php:220
+msgid "This feature is not available on Free plan. If you want to use this feature, please %supgrade your plan%s."
+msgstr "Esta característica no está disponible en el plan gratuito. Si deseas usar esta característica, por favor %smejora tu plan%s."
+
+#: settings.php:195
+msgid "Hide ConveyThis logo."
+msgstr "Ocultar el logotipo ConveyThis."
+
+#: settings.php:185
+msgid "This feature is not available on Free and Starter plans. If you want to use this feature, please %supgrade your plan%s."
+msgstr "Esta característica no está disponible en los planes gratuitos y de inicio. Si deseas usar esta característica, %smejora tu plan%s."
+
+#: settings.php:160
+msgid "Redirect visitors to translated pages automatically based on user browser's settings."
+msgstr "Redirige a los visitantes a las páginas traducidas automáticamente según la configuración del navegador del usuario."
+
+#: settings.php:132
+msgid "Edit My Translations"
+msgstr "Editar mis traducciones"
+
+#: settings.php:52
+msgid "Select source language"
+msgstr "Seleccionar el idioma de origen"
+
+#: index.php:2362
+msgid "change plan"
+msgstr "cambio de plan"
+
+#: index.php:674
+msgid "Plugin requires installing php-xml extension."
+msgstr "El plugin necesita la instalación de la extensión php-xml."
+
+#: index.php:661
+msgid "configuration page"
+msgstr "Página de configuración"
+
+#: index.php:660
+msgid "You need to configure ConveyThis plugin here:"
+msgstr "Tienes que configurar aquí el plugin ConveyThis:"
+
+#: index.php:616
+msgid "Add to menu"
+msgstr "Añadir al menú"
+
+#: index.php:613
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+#: index.php:530
+msgid "ConveyThis"
+msgstr "ConveyThis"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.conveythis.com/?utm_source=widget&utm_medium=wordpress"
+msgstr "https://www.conveythis.com/?utm_source=widget&utm_medium=wordpress"
+
+#. Author of the plugin
+msgid "ConveyThis Translate Team"
+msgstr "Equipo de ConveyThis Translate "
+
+#. Description of the plugin
+msgid "Translate your WordPress site into over 100 languages using professional and instant machine translation technology. ConveyThis will help provide you with an SEO-friendy, multilingual website in minutes with no coding required."
+msgstr "Traduce tu sitio WordPress a más de 100 idioma utilizando tecnología de traducción profesional y automatizada. ConveyThis te ayudará a conseguir en minutos un sitio multilingüe optimizado para SEO sin tener que programar."
+
+#. Plugin Name of the plugin
+msgid "ConveyThis Translate"
+msgstr "ConveyThis Translate"
+
+#: settings.php:679
+msgid "By default all the languages have their flags in accordance with ISO standards. If you want to change the flag for one or several languages here you can customize this."
+msgstr "Por defecto, todos los idiomas tienen sus banderas de acuerdo con las normas ISO. Si deseas cambiar la bandera de uno o varios idiomas, aquí puedes personalizarlo."
+
+#: settings.php:673
+msgid "Change flag"
+msgstr "Cambiar bandera"
+
+#: settings.php:311
+msgid "Add to all pages"
+msgstr "Añadir a todas las página"
+
+#: settings.php:306
+msgid "Hreflang tags"
+msgstr "Etiquetas Hreflang"
+
+#: settings.php:300
+msgid "SEO"
+msgstr "SEO"
+
+#: settings.php:604
+msgid "Vertical spacing from the top or bottom of the browser"
+msgstr "Espaciado vertical desde la parte superior o inferior del navegador"
+
+#: settings.php:600
+msgid "Indenting"
+msgstr "Sangría"
+
+#: settings.php:514
+msgid "Vertical location of the language selection button on the site"
+msgstr "Ubicación del botón de selección de idioma en el sitio "
+
+#: settings.php:490
+msgid "Position"
+msgstr "Posición"
+
+#: settings.php:479
+msgid "Without text"
+msgstr "Sin texto"
+
+#: settings.php:465
+msgid "Short text"
+msgstr "Texto corto"
+
+#: settings.php:451
+msgid "Full text"
+msgstr "Texto completo"
+
+#: settings.php:434
+msgid "Display the text name of the language"
+msgstr "Muestra el nombre del idioma en texto"
+
+#: settings.php:429
+msgid "Text"
+msgstr "Texto"
+
+#: settings.php:404
+msgid "Circle flag"
+msgstr "Bandera redonda"
+
+#: settings.php:390
+msgid "Square flag"
+msgstr "Bandera cuadrada"
+
+#: settings.php:376
+msgid "Rectangle flag"
+msgstr "Bandera rectangular"
+
+#: settings.php:359
+msgid "Select the display style for flags"
+msgstr "Elige el estilo de visualización para las banderas"
+
+#: settings.php:354
+msgid "Picture"
+msgstr "Imagen"
+
+#: settings.php:148
+msgid "Show more options"
+msgstr "Mostrar más opciones"
+
+#: settings.php:127
+msgid "You can find all your translations in your account"
+msgstr "Puedes encontrar todas tus traducciones en tu cuenta"
+
+#: settings.php:122
+msgid "Where are my translations?"
+msgstr "¿Dónde están mis traducciones?"
+
+#: settings.php:104
+msgid "On the free plan, you can only choose one target language. If you want to use more than 1 language, please %supgrade your plan%s."
+msgstr "En el plan gratuito, sólo puedes elegir un idioma de destino. Si quieres usar más de 1 idioma, por favor %smejora tu plan%s."
+
+#: settings.php:76
+msgid "Choose languages you want to translate into."
+msgstr "Elige los idiomas a los que quieres traducir."
+
+#: settings.php:72
+msgid "Target Languages"
+msgstr "Idiomas de destino"
+
+#: settings.php:43
+msgid "What is the source (current) language of your website?"
+msgstr "¿Cuál es el idioma de origen (actual) de tu web?"
+
+#: settings.php:39
+msgid "Source Language"
+msgstr "Idioma de origen"
+
+#: settings.php:25
+msgid "Log in to %sConveyThis%s to get your API key."
+msgstr "Accede a %sConveyThis%s para obtener tu clave de API."
+
+#: settings.php:21
+msgid "API Key"
+msgstr "Clave de la API"
+
+#: settings.php:11
+msgid "Preview"
+msgstr "Vista previa"
+
+#: settings.php:7
+msgid "Main configuration"
+msgstr "Configuración principal"
+
+#: index.php:657
+msgid "ConveyThis plugin installed but not yet configured."
+msgstr "El plugin de ConveyThis está instalado pero aún no ha sido configurado."
+
+#: index.php:640
+msgid "Settings"
+msgstr "Ajustes"
+
+#: index.php:632
+msgid "Rate this plugin"
+msgstr "Valoración de este plugin"
+
+#: index.php:631
+msgid "Support"
+msgstr "Soporte"
+
+#: index.php:630
+msgid "FAQ"
+msgstr "FAQ"
